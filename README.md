@@ -10,9 +10,10 @@ This program wil  be able to render simple Computer-Generated-Images.
 📬 Get in touch
 
 Mail: idanvork@gmail.com
+
 LinkedIn: www.linkedin.com/in/idanvork
+
 Twitter: https://twitter.com/idanvork
 
 
 Languages and Tools:
-arduino bash c git linux python scikit_learn
