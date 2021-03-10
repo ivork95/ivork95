@@ -3,7 +3,7 @@ I am a Software Engineering and student at Codam Coding College.
 
 
 ⚡ Recent Activity
-Currently i'm working on miniRT, this project is an introduction to the beautiful world of Raytracing.
+\nCurrently i'm working on miniRT, this project is an introduction to the beautiful world of Raytracing.
 This program wil  be able to render simple Computer-Generated-Images.
 
 📬 Get in touch
