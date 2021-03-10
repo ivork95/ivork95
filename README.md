@@ -12,11 +12,6 @@ I am a Software Engineering and student at Codam Coding College.
 •Twitter: https://twitter.com/idanvork 
 
 Languages and Tools:\
-<p>
-  <a href="https://www.gmail.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="gmail">
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
-  </a>
-</p>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
