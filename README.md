@@ -13,8 +13,8 @@ I am a Software Engineering and student at Codam Coding College.
 
 Languages and Tools:\
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+  <a href="https://www.gmail.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="gmail">
   </a> &nbsp; 
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github">
