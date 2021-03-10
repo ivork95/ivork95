@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Idan Vork
+I am a Software Engineering and student at Codam Coding College.
 
-<!--
-**ivork95/ivork95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⚡ Recent Activity
+Currently i'm working on miniRT, this project is an introduction to the beautiful world of Raytracing.
+This program wil  be able to render simple Computer-Generated-Images.
+📬 Get in touch
+Mail: idanvork@gmail.com
+LinkedIn: www.linkedin.com/in/idanvork
+Twitter: https://twitter.com/idanvork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+arduino bash c git linux python scikit_learn
